@@ -26,7 +26,7 @@ from typing import Any
 import qp
 from astropy.table import Table
 from rail.core.model import Model as PhotozModel
-from rail.utils.catalog_utils import (
+from rail.utils.catalog_utils_old import (
     ComCamCatalogConfig,
     Dc2CatalogConfig,
     HscCatalogConfig,
